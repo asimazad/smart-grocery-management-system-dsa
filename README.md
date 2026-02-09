@@ -1,7 +1,5 @@
-# 🛒 Smart Grocery Management System (DSA)
-
 An efficient *console-based grocery management system* implemented in *C++, designed to demonstrate the **practical application of Data Structures and Algorithms (DSA)* in a real-world scenario.
-
+# 🛒 Smart Grocery Management System (DSA)
 ---
 
 ## 🚀 Features
